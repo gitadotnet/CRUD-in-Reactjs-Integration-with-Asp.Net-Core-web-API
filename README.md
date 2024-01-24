@@ -12,17 +12,16 @@ Repository have two projects.
      
         Npm install react-toastify
      
-       Final Output Screen of Application
+  Final Output Screen of Application
      
   ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/70e73e01-0358-4762-9888-e545d793a3ac)
 
     
-    Edit screen
+    Edit screen:
+    
+    ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/acc105b9-8361-4fa4-be35-3683a9e91ab4)
+    
 
-    ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/82bd2997-7a20-446b-8865-58faa229fbdd)
-
-
-            
   3. **AspCoreAPI01-CURD**: Create ASP.NET Core Web API Project (for backend using Visual Studio)
      
      you have to add some NuGet packages for this project:
