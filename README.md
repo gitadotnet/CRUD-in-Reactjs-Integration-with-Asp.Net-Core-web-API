@@ -14,11 +14,12 @@ Repository have two projects.
      
        Final Output Screen of Application
      
-    <img width="902" alt="image" src="https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/29aa0e9a-5228-4944-8959-6d64f2e2d19f">
+  ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/70e73e01-0358-4762-9888-e545d793a3ac)
+
     
     Edit screen
-    <img width="911" alt="image" src="https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/20d85711-c85c-4176-8910-4c51dc7874fb">
 
+    ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/82bd2997-7a20-446b-8865-58faa229fbdd)
 
 
             
