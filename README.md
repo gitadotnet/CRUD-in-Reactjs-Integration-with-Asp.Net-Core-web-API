@@ -14,7 +14,12 @@ Repository have two projects.
      
        Final Output Screen of Application
      
-     ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/0c9ffd73-0d46-46b2-bc13-486fa2e0ccd8)
+    <img width="902" alt="image" src="https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/29aa0e9a-5228-4944-8959-6d64f2e2d19f">
+    
+    Edit screen
+    <img width="911" alt="image" src="https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/20d85711-c85c-4176-8910-4c51dc7874fb">
+
+
 
             
   3. **AspCoreAPI01-CURD**: Create ASP.NET Core Web API Project (for backend using Visual Studio)
