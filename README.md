@@ -25,3 +25,6 @@ Repository have two projects.
      
         Microsoft.AspNetCore.Cors
      
+     ![image](https://github.com/gitadotnet/CRUD-in-Reactjs-Integration-with-Asp.Net-Core-web-API/assets/147838726/42fb567c-0522-4cb9-bdf0-86cd4d870337)
+
+     
